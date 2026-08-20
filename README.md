@@ -38,6 +38,7 @@ The stack I’m learning and building with as I turn ML fundamentals into small,
 - Understanding backpropagation instead of treating `loss.backward()` as magic
 - Learning PyTorch through small experiments and classification projects
 - Documenting the concepts, mistakes, and code as I go
+- Working toward building a GPT-2-style model from scratch.
 
 ## Featured project
 
