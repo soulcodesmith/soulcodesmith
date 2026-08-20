@@ -1,29 +1,17 @@
 # Hi, I'm SouL
 
-I'm learning machine learning by rebuilding the ideas behind the tools I use.
+I'm learning Machine learning by rebuilding the ideas behind the tools I use.
 
-My current path is:
-
-```text
-Python → NumPy → micrograd → PyTorch → neural networks → language models
-```
 
 ## 🛠️ Languages & tools
 
 The stack I’m learning and building with as I turn ML fundamentals into small, understandable projects.
 
-### Python & machine learning
+### Python & Machine learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark&perline=4" alt="Python, PyTorch, TensorFlow, and scikit-learn" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="48" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="48" alt="Jupyter" />
-</p>
-
-### Systems & other skills
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c&theme=dark&perline=1" alt="C" />
+  <img src="assets/numpy-logo.svg" height="48" alt="NumPy" />
 </p>
 
 ### Backend
@@ -39,6 +27,13 @@ The stack I’m learning and building with as I turn ML fundamentals into small,
   <img src="https://skillicons.dev/icons?i=git,github&theme=dark&perline=2" alt="Git and GitHub" />
   <img src="https://img.shields.io/badge/Graphviz-1F6FEB?style=for-the-badge&logo=graphviz&logoColor=white" height="48" alt="Graphviz" />
 </p>
+
+### Systems & other skills
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c&theme=dark&perline=1" alt="C" />
+</p>
+
 
 ## What I'm working on
 
