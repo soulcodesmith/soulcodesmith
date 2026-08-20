@@ -8,6 +8,30 @@ My current path is:
 Python → NumPy → micrograd → PyTorch → neural networks → language models
 ```
 
+## 🛠️ Languages & tools
+
+The stack I’m learning and building with as I turn ML fundamentals into small, understandable projects.
+
+### Python & machine learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,numpy,pytorch,sklearn,jupyter&theme=dark&perline=5" alt="Python, NumPy, PyTorch, scikit-learn, and Jupyter" />
+</p>
+
+### APIs & data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,sqlite&theme=dark&perline=2" alt="FastAPI and SQLite" />
+  <img src="https://img.shields.io/badge/SQL-1F6FEB?style=for-the-badge&logo=postgresql&logoColor=white" height="48" alt="SQL" />
+</p>
+
+### Developer workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github&theme=dark&perline=2" alt="Git and GitHub" />
+  <img src="https://img.shields.io/badge/Graphviz-1F6FEB?style=for-the-badge&logo=graphviz&logoColor=white" height="48" alt="Graphviz" />
+</p>
+
 ## What I'm working on
 
 - Rebuilding a scalar automatic-differentiation engine in Python
