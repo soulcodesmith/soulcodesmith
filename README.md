@@ -23,7 +23,7 @@ The stack I’m learning and building with as I turn ML fundamentals into small,
 ### Systems & other skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c&theme=dark&perline=1" alt="C" />
+  <img src="https://skillicons.dev/icons?i=c,docker&theme=dark&perline=2" alt="C and Docker" />
 </p>
 
 ### APIs & data
