@@ -1,0 +1,28 @@
+<svg width="180" height="120" viewBox="0 0 180 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="SQL">
+  <defs>
+    <linearGradient id="sqlBody" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#6b7fe6"/>
+      <stop offset="100%" stop-color="#3d58b3"/>
+    </linearGradient>
+    <linearGradient id="sqlBodyDark" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0%" stop-color="#3d58b3"/>
+      <stop offset="100%" stop-color="#293a8d"/>
+    </linearGradient>
+  </defs>
+
+  <g transform="translate(0,2)">
+    <g fill="url(#sqlBody)">
+      <path d="M20 30C20 18 34 10 52 10H110C128 10 142 18 142 30V70C142 82 128 90 110 90H52C34 90 20 82 20 70V30Z"/>
+      <path d="M20 40C20 52 34 60 52 60H110C128 60 142 52 142 40V70C142 82 128 90 110 90H52C34 90 20 82 20 70V40Z" opacity="0.9"/>
+      <path d="M20 50C20 62 34 70 52 70H110C128 70 142 62 142 50V70C142 82 128 90 110 90H52C34 90 20 82 20 70V50Z" opacity="0.75"/>
+    </g>
+
+    <g fill="#2f3c8c" opacity="0.9">
+      <path d="M20 30V70C20 82 34 90 52 90H110C128 90 142 82 142 70V30" fill="none" stroke="#2f3c8c" stroke-width="3"/>
+    </g>
+
+    <g fill="#dfeaf7">
+      <text x="81" y="74" font-size="38" font-weight="700" text-anchor="middle" font-family="Arial, Helvetica, sans-serif">SQL</text>
+    </g>
+  </g>
+</svg>

@@ -11,14 +11,14 @@ The stack I’m learning and building with as I turn ML fundamentals into small,
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark&perline=4" alt="Python, PyTorch, TensorFlow, and scikit-learn" />
-  <img src="assets/numpy-logo.svg" height="48" alt="NumPy" />
+  <img src="assets/numpy-logo.svg" height="40" alt="NumPy" />
 </p>
 
 ### Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,sqlite,docker&theme=dark&perline=3" alt="FastAPI, SQLite, and Docker" />
-  <img src="https://img.shields.io/badge/SQL-1F6FEB?style=for-the-badge&logo=postgresql&logoColor=white" height="48" alt="SQL" />
+  <img src="assets/sql-logo.svg" height="32" alt="SQL" />
 </p>
 
 ### Developer workflow
