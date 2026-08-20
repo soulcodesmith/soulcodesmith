@@ -11,7 +11,7 @@ The stack I’m learning and building with as I turn ML fundamentals into small,
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark&perline=4" alt="Python, PyTorch, TensorFlow, and scikit-learn" />
-  <img src="assets/numpy-logo.svg" width="120" alt="NumPy" />
+  <img src="assets/numpy-logo.svg" height="48" alt="NumPy" />
 </p>
 
 ### Backend
