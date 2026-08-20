@@ -1,39 +1,32 @@
-<svg width="320" height="240" viewBox="0 0 320 240" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="320" height="240" fill="#000000"/>
+<svg width="240" height="240" viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
+  <rect width="240" height="240" fill="#000000"/>
 
-  <g transform="translate(30 20)">
-    <g opacity="0.96">
-      <path d="M50 55L110 20L170 55L110 90L50 55Z" fill="#4BC0DC"/>
-      <path d="M110 90L170 55L170 120L110 155L110 90Z" fill="#59C7E6"/>
-      <path d="M50 55L110 90L110 155L50 120L50 55Z" fill="#2F6EB5"/>
+  <g transform="translate(8,8)">
+    <polygon points="40,100 100,60 160,100 100,140" fill="#6EBFE3"/>
+    <polygon points="100,140 160,100 160,170 100,210" fill="#7CD7F5"/>
+    <polygon points="40,100 100,140 100,210 40,170" fill="#2D6FB3"/>
 
-      <path d="M120 55L180 20L240 55L180 90L120 55Z" fill="#4BC0DC"/>
-      <path d="M180 90L240 55L240 120L180 155L180 90Z" fill="#59C7E6"/>
-      <path d="M120 55L180 90L180 155L120 120L120 55Z" fill="#2F6EB5"/>
+    <polygon points="80,70 140,30 200,70 140,110" fill="#5DB9DE"/>
+    <polygon points="140,110 200,70 200,140 140,180" fill="#82DDF6"/>
+    <polygon points="80,70 140,110 140,180 80,140" fill="#2D5EA8"/>
 
-      <path d="M190 55L250 20L310 55L250 90L190 55Z" fill="#4BC0DC"/>
-      <path d="M250 90L310 55L310 120L250 155L250 90Z" fill="#59C7E6"/>
-      <path d="M190 55L250 90L250 155L190 120L190 55Z" fill="#2F6EB5"/>
+    <polygon points="120,120 180,80 240,120 180,160" fill="#4EB1D8"/>
+    <polygon points="180,160 240,120 240,190 180,230" fill="#6FD1F1"/>
+    <polygon points="120,120 180,160 180,230 120,190" fill="#2D4F98"/>
 
-      <path d="M110 120L170 85L230 120L170 155L110 120Z" fill="#44B1D1"/>
-      <path d="M170 155L230 120L230 185L170 220L170 155Z" fill="#67CDEB"/>
-      <path d="M110 120L170 155L170 220L110 185L110 120Z" fill="#2B5B9E"/>
-    </g>
+    <polygon points="110,15 170, -25 230,15 170,55" fill="#4DB4D7" opacity="0.4"/>
 
-    <g>
-      <path d="M42 100L90 72V160L42 188V100Z" fill="#2C4FA6"/>
-      <path d="M90 72L145 40L195 72L145 104L90 72Z" fill="#2A5DB0"/>
-      <path d="M145 104V167L195 139V72L145 104Z" fill="#4BC0DC"/>
-      <path d="M90 72V160L145 192V104L90 72Z" fill="#2F8BC0"/>
-      <path d="M145 104L195 72V139L145 167V104Z" fill="#79D6F0"/>
-      <path d="M42 100L90 72L145 104L97 132L42 100Z" fill="#2D68C0"/>
-      <path d="M90 160L145 192L145 104L90 72V160Z" fill="#3A8BC7"/>
-    </g>
+    <path d="M30 135 L70 110 L70 205 L30 230 Z" fill="#1F3F82"/>
+    <path d="M70 110 L110 82 L110 177 L70 205 Z" fill="#2D5FB0"/>
+    <path d="M110 82 L150 55 L150 150 L110 177 Z" fill="#4FC5E8"/>
+    <path d="M150 55 L190 82 L190 177 L150 150 Z" fill="#7ADAF5"/>
+    <path d="M190 82 L230 110 L230 205 L190 177 Z" fill="#2C80B7"/>
 
-    <g fill="#1E3F8F">
-      <path d="M20 145L53 125L84 145L51 165L20 145Z"/>
-      <path d="M128 150L155 131L186 150L159 169L128 150Z"/>
-      <path d="M201 145L233 125L263 145L232 165L201 145Z"/>
-    </g>
+    <path d="M18 164 L89 120 L89 196 L18 232 Z" fill="#1A2F7A"/>
+    <path d="M89 120 L165 79 L165 155 L89 196 Z" fill="#355FA9"/>
+    <path d="M165 79 L220 112 L220 188 L165 155 Z" fill="#5AC0E3"/>
+
+    <polygon points="18,155 70,125 90,136 38,166" fill="#0D2766" opacity="0.4"/>
+    <polygon points="192,98 220,112 220,188 192,175" fill="#0F2F64" opacity="0.35"/>
   </g>
 </svg>
