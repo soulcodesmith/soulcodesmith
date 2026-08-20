@@ -15,7 +15,9 @@ The stack I’m learning and building with as I turn ML fundamentals into small,
 ### Python & machine learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,numpy,pytorch,sklearn,jupyter&theme=dark&perline=5" alt="Python, NumPy, PyTorch, scikit-learn, and Jupyter" />
+  <img src="https://skillicons.dev/icons?i=python,c,pytorch,tensorflow,sklearn&theme=dark&perline=5" alt="Python, C, PyTorch, TensorFlow, and scikit-learn" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="48" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="48" alt="Jupyter" />
 </p>
 
 ### APIs & data
