@@ -23,13 +23,13 @@ The stack I’m learning and building with as I turn ML fundamentals into small,
 ### Systems & other skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,docker&theme=dark&perline=2" alt="C and Docker" />
+  <img src="https://skillicons.dev/icons?i=c&theme=dark&perline=1" alt="C" />
 </p>
 
-### APIs & data
+### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,sqlite&theme=dark&perline=2" alt="FastAPI and SQLite" />
+  <img src="https://skillicons.dev/icons?i=fastapi,sqlite,docker&theme=dark&perline=3" alt="FastAPI, SQLite, and Docker" />
   <img src="https://img.shields.io/badge/SQL-1F6FEB?style=for-the-badge&logo=postgresql&logoColor=white" height="48" alt="SQL" />
 </p>
 
